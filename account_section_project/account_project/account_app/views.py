@@ -382,3 +382,10 @@ def change_password(request):
     except: 
         return Response({'status': 'fail', 'message': 'token is invalid.'})
 
+
+
+# nobi code..............
+
+
+def Gittest(request):
+    pass
